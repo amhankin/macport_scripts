@@ -1,0 +1,6 @@
+texlive
+texlive-bibtex-extra
+texlive-fonts-extra
+texlive-formats-extra
+texlive-latex-extra
+texlive-publishers
